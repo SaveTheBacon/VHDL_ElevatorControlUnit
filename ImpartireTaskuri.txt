@@ -1,0 +1,15 @@
+Bogdan Stefan se va ocupa de tot ceea ce tine de senzori (greutate, inchis usi), de inchiderea usilor, programarea timerului pe usi si a vitezei.
+Fleser Mihai se va ocupa de miscarea liftului, de alegerea urmatorului etaj, de gestionarea comenzilor de la etaje.
+
+In caz ca scrisul e prea urat in poza cu schema bloc:
+Inputuri:
+Senzor usa
+Senzor greutate
+Etaj destinatie
+Viteza
+Outputuri:
+Greutate prea mare
+Problema la usa (om/usa deschisa)
+Sens de mers
+Etaj curent
+

@@ -1,0 +1,13 @@
+4 parti
+
+I)    Introducere proiect, ce face
+II)   Descriere proiect, mod structurare
+		1-schema bloc
+		2-schema unde se vede uc, ue
+		3-schema unitate control
+		4-scheme pt fiecare componenta, in parte
+III)  Implementare propriu-zisa
+		Simulare circuit(waveformuri) + componente
+IV)   Concluzii, chestii importante, cum am rezolvat, unde o fost baiuri, etc etc
+
+Salvata ca pdf si trimisa

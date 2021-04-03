@@ -1,0 +1,14 @@
+Inputuri:
+Senzor usa
+Senzor greutate
+Etaj destinatie
+Viteza
+Outputuri:
+Greutate prea mare
+Problema la usa (om/usa deschisa)
+Sens de mers
+Etaj curent
+
+
+
+Imi cer scuze pentru scrisul urat
